@@ -1,6 +1,6 @@
 var db = {
-    db: 'mainDatabsaeAddress',
-    dbTest: 'testDatabaseAddress',
+    db: 'localhost:27017/users',
+    dbTest: 'localhost:27017/testusers',
     mySecret: 'Eminem'
 };
 
